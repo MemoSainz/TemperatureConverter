@@ -8,7 +8,7 @@
 >
 > <div align="center"> <h2>English</h2> </div>
 > 
-> Well, yeat another non-complex program inside the terminal, where you can convert the temperature between Farenheit and Celsius.
+> Well, yet another non-complex program inside the terminal, where you can convert the temperature between Farenheit and Celsius.
 >
 
 > [!IMPORTANT]
